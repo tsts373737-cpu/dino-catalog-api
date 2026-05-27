@@ -34,5 +34,5 @@ API разработан на **Django REST Framework** с использова�
 
 ### 1. Клонировать репозиторий
 ```bash
-git clone <ссылка-на-репозиторий>
+git clone <https://github.com/tsts373737-cpu/dino-catalog-api.git>
 cd dino_api
